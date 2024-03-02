@@ -1,0 +1,6 @@
+booking_id,customer_id,booking_date,destination,number_of_passengers,cost_per_passenger
+9992,12345,11-11-2023,Delhi,15,3500
+9993,23456,08-12-2023,Chennai,8,2400
+9994,34567,05-07-2023,Munnar,2,900
+9995,45689,11-12-2023,Pondichery,6,3000
+,,,,,
